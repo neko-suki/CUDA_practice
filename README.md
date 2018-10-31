@@ -1,2 +1,1 @@
-# CUDA_practice
-practice for CUDA
+Practice Repository for CUDA
